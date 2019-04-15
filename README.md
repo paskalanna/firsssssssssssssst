@@ -3,6 +3,7 @@
 Реализовать односвязный список с использованием данных функций: 
 ![enter image description here](https://lh3.googleusercontent.com/5K6gW2jTS5iyC0rGx576nde_jnNy7H9qd_FOCgeljvgrvPG2wa8R34uLHBKRUlHCQ1H7oNv5Z5-9)
  ![enter image description here](https://lh3.googleusercontent.com/WXpsK2x02TzrilOQ_KUDavKdQvITB9rO-4TMAAmqN0_VQ3eE-i0dBr88wKPMX-ZP8LeyQQq73-pt)
+ 
  Должны выполняться следующие задачи:
  1. считать количество элементов ∈ N, 0 < ≤ 2147483647; 
  2. создать пустой список, считать n элементов a , |a | ≤ 2147483647 и занести их в список; 
