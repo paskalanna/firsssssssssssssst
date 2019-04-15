@@ -29,8 +29,10 @@
 ## Результат работы программы
 Результаты работы программ представлены ниже.
 Первая программа:
+
 ![enter image description here](https://pp.userapi.com/c852320/v852320885/101728/FKRWD_jh4Ew.jpg)
 
 Вторая программа:
+
 ![enter image description here](https://pp.userapi.com/c853424/v853424885/23e75/oMWlKF04PI0.jpg)
 
