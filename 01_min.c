@@ -9,8 +9,7 @@ scanf("%d",&n);
 unsigned int x[n];
 for (int i=0;i<n;i++)
 {
-	x[i]=0+rand()%2147483647;
-	printf("%d\n", x[i]);
+	scanf("%d",&x[i]);
 }
 min=x[0];
 for (int i=0;i<n;i++)
@@ -20,4 +19,3 @@ for (int i=0;i<n;i++)
 }
 printf("%d",min);
 }
- 
