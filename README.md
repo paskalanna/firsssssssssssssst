@@ -8,13 +8,9 @@
 ## ХОД РАБОТЫ
 С помощью команды **nano** и текстового блокнота были созданы исходные коды программ. Исходные коды были скомпилированы и  успешно реализованы.
   
-Результаты работы первой программы:  
+Результаты работы первой и второй программ:  
   
-![enter image description here](https://pp.userapi.com/c852032/v852032521/cdcc5/o8FgmzcIQCw.jpg)  
-  
-Результаты работы второй программы:  
-  
-![enter image description here](https://pp.userapi.com/c845420/v845420617/1c5b31/INeMabC1xAA.jpg)  
+![enter image description here](https://pp.userapi.com/c847016/v847016015/1e7421/wBnReSh5t1E.jpg)  
   
 Программы были отправлены в репозиторий с помощью команд:  
   
